@@ -1,9 +1,12 @@
 ## whatsLab
 
+
+> Status do Projeto: Concluido :heavy_check_mark:
+
 ## Stack
 Aplicação realizada durante o curso da Labenu, com foco em Frontend, feito utilizando ReactJS, HTML e CSS; 
 e como gerenciador de pacotes do NodeJS o npm.
-> Status do Projeto: Concluido :heavy_check_mark:
+
 
 ## Sobre
 Um dos primeiros projetos que fiz em React.
