@@ -17,6 +17,11 @@ aparecerá à direita.
 Não há integrações com APIs externas nesse caso.## Instruções para rodar
 Por ser um projeto com ReactJS, há a necessidade do NodeJS. 
 
+## Participantes
+- Lais Petra
+- Yuzo Santana
+- Debora Oliveira
+
 Para rodar em sua máquina, clone o repositório, e depois rode:
 
 1. `npm install` para instalar todas as dependências;
